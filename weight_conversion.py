@@ -1,6 +1,0 @@
-weight=input('Enter weight in pounds: ')
-print(type(weight))
-weight=int(weight)
-print(type(weight))
-weight=int(weight/2.2)
-print('The Weight is:',weight,'Kg.')
